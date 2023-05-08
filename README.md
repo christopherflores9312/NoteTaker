@@ -22,6 +22,12 @@ This is a simple note-taking application built with Express.js. The application 
 2. Open your web browser and visit `http://localhost:3000`.
 3. Use the application to create, view, and delete notes.
 
+## Example
+
+Example can be seen at the following link: https://notetaker9312.herokuapp.com/notes
+
+<img src="public/assets/example.jpg" width="800">
+
 ## Dependencies
 
 - [Express.js](https://expressjs.com/)
